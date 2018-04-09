@@ -1,0 +1,9 @@
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\CornerstoneAssessment.exe.config
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\CornerstoneAssessment.exe
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\CornerstoneAssessment.pdb
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\Newtonsoft.Json.dll
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\Newtonsoft.Json.xml
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\obj\Debug\CornerstoneAssessment.csprojResolveAssemblyReference.cache
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\obj\Debug\CornerstoneAssessment.exe
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\obj\Debug\CornerstoneAssessment.pdb
+c:\users\mgrimes\documents\visual studio 2015\Projects\CornerstoneAssessment\CornerstoneAssessment\bin\Debug\code_test.json
